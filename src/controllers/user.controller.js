@@ -32,3 +32,6 @@ export const loginUser = async (req, res) => {
     res.json({token});
 }
 
+/*
+https://authjs.dev/getting-started/providers/google?framework=express
+*/

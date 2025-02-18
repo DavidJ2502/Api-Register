@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import cors from "cors"; // Cors 🔜 Para permitir solicitudes entre los dominios
+import cors from "cors"; // Cors 🔜 Para permitir solicitudes entre los dominios 
 import userRoutes from "./routes/user.routes.js"
 dotenv.config();
 
